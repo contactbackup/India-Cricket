@@ -1,56 +1,56 @@
 [{
 		"caption": "Captain: Shikhar Dhawan",
 		"players": "Players: 20",
-		"teamClick": "india",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/ind_players",
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
 		"teamName": "India"
 	},
 	{
 		"caption": "Captain: Karunaratne",
 		"players": "Players: 17",
-		"teamClick": "Sri Lanka",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/sri_players",
 		"teamImage": "https://cdn.britannica.com/13/4413-004-3277D2EF/Flag-Sri-Lanka.jpg",
 		"teamName": "Sri Lanka"
 	},
 	{
 		"caption": "Captain: Babar Azam",
 		"players": "Players: 16",
-		"teamClick": "pakistan",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/pk_players",
 		"teamImage": "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg",
 		"teamName": "Pakistan"
 	},
 	{
 		"caption": "Captain: Tim Paine",
 		"players": "Players: 17",
-		"teamClick": "australia",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/aus_players",
 		"teamImage": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
 		"teamName": "Australia"
 	},
 	{
 		"caption": "Captain: Tamim Iqbal",
 		"players": "Players: 18",
-		"teamClick": "Bangladesh",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/bd_player",
 		"teamImage": "https://cdn.britannica.com/67/6267-004-10A21DF0/Flag-Bangladesh.jpg",
 		"teamName": "Bangladesh"
 	},
 	{
 		"caption": "Captain: Eoin Morgan",
 		"players": "Players: 16",
-		"teamClick": "england",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/eng_players",
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
 		"teamName": "England "
 	},
 	{
 		"caption": "Captain: de Kock",
 		"players": "Players: 14",
-		"teamClick": "SouthAfrica",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/sa_players",
 		"teamImage": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg",
 		"teamName": "South Africa"
 	},
 	{
 		"caption": "Captain: Kane Williamson",
 		"players": "Players: 22",
-		"teamClick": "newzealand",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/nz_players",
 		"teamImage": "https://cdn.britannica.com/17/3017-004-DCC13F9D/Flag-New-Zealand.jpg",
 		"teamName": "New Zealand"
 	}
