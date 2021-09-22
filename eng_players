@@ -1,0 +1,67 @@
+[{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152797/rory-burns.jpg",
+		"name": "Rory Burns",
+		"type": "WK-Batsman"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152829/dominic-sibley.jpg",
+		"name": "Dominic Sibley",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c182026/haseeb-hameed.jpg",
+		"name": "Haseeb Hameed",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170942/joe-root.jpg",
+		"name": "Joe Root",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170976/jonny-bairstow.jpg",
+		"name": "Jonny Bairstow",
+		"type": "WK-Batsman"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170980/jos-buttler.jpg",
+		"name": "Jos Buttler",
+		"type": "WK-Batsman"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg",
+		"name": "Moeen Ali",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156183/sam-curran.jpg",
+		"name": "Sam Curran",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c182026/ollie-robinson.jpg",
+		"name": "Ollie Robinson",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170990/mark-wood.jpg",
+		"name": "Mark Wood",
+		"type": "Bowler"
+	},
+	{
+		"country": "England",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c173031/james-anderson.jpg",
+		"name": "James Anderson",
+		"type": "Bowler"
+	}
+]
