@@ -1,0 +1,67 @@
+ [{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154637/danushka-gunathilaka.jpg",
+ 		"name": "Danushka Gunathilaka",
+ 		"type": "All-Rounder"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318400/318435.jpg",
+ 		"name": "Pathum Nissanka",
+ 		"type": "Batsman"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170815/kusal-mendis.jpg",
+ 		"name": "Kusal Mendis",
+ 		"type": "Batsman"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170718/kusal-perera.jpg",
+ 		"name": "Kusal Perera",
+ 		"type": "WK-Batsman"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170708/dhananjaya-de-silva.jpg",
+ 		"name": "de Silva",
+ 		"type": "WK-Batsman"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151519/dasun-shanaka.jpg",
+ 		"name": "Dasun Shanaka",
+ 		"type": "All-Rounder"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c160013/ashen-bandara.jpg",
+ 		"name": "Ashen Bandara",
+ 		"type": "All-Rounder"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155576/wanindu-hasaranga.jpg",
+ 		"name": "Wanindu Hasaranga",
+ 		"type": "Bowler"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170710/isuru-udana.jpg",
+ 		"name": "Isuru Udana",
+ 		"type": "Bowler"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151517/lakshan-sandakan.jpg",
+ 		"name": "Lakshan Sandakan",
+ 		"type": "Bowler"
+ 	},
+ 	{
+ 		"country": "Sri Lanka",
+ 		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155068/dushmantha-chameera.jpg",
+ 		"name": "Dushmantha Chameera",
+ 		"type": "Bowler"
+ 	}
+ ]
