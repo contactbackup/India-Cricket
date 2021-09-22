@@ -1,0 +1,67 @@
+[{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+		"name": "Tamim Iqbal (C)",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+		"name": "Liton Das",
+		"type": "WK-Batsman"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+		"name": "Shakib Al Hasan",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+		"name": "Mushfiqur Rahim",
+		"type": "WK-Batsman"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg",
+		"name": "Mosaddek Hossain",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+		"name": "Mahmudullah",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://cricclubs.com/documentsRep/profilePics/9a4b698b-0f6f-46e9-9fd8-4433109ac5c4.jpg",
+		"name": "Afif Hossain",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg",
+		"name": "Mehidy Hasan",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg",
+		"name": "Mohammad Saifuddin",
+		"type": "All-Rounder"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.espncricinfo.com/db/PICTURES/CMS/286900/286908.1.jpg",
+		"name": "Shoriful Islam",
+		"type": "Bowler"
+	},
+	{
+		"country": "Bangladesh",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+		"name": "Mustafizur Rahman",
+		"type": "Bowler"
+	}
+]
