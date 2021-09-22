@@ -1,0 +1,91 @@
+[{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170763/fakhar-zaman.jpg",
+		"name": "Fakhar Zaman",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170765/imam-ul-haq.jpg",
+		"name": "Imam-ul-Haq",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg",
+		"name": "Babar Azam",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170770/asif-ali.jpg",
+		"name": "Asif Ali",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170777/haris-sohail.jpg",
+		"name": "Haris Sohail",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170776/mohammad-hafeez.jpg",
+		"name": "Mohammad Hafeez",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170775/shoaib-malik.jpg",
+		"name": "Shoaib Malik",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170779/shadab-khan.jpg",
+		"name": "Shadab Khan",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170782/imad-wasim.jpg",
+		"name": "Imad Wasim",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170787/sarfaraz-ahmed.jpg",
+		"name": "Sarfaraz Ahmed",
+		"type": "WICKET KEEPER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170809/wahab-riaz.jpg",
+		"name": "Wahab Riaz",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170802/shaheen-afridi.jpg",
+		"name": "Shaheen Afridi",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170804/hasan-ali.jpg",
+		"name": "Hasan Ali",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170805/mohammad-hasnain.jpg",
+		"name": "Mohammad Hasnain",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Pakistan",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170813/mohammad-amir.jpg",
+		"name": "Mohammad Amir",
+		"type": "BOWLER"
+	}
+]
