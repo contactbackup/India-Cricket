@@ -1,0 +1,157 @@
+[{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg",
+		"name": "Aaron Finch",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg",
+		"name": "Steven Smith",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg",
+		"name": "David Warner",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180293/joe-burns.jpg",
+		"name": "Joe Burns",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c165716/will-pucovski.jpg",
+		"name": "Will Pucovski",
+		"type": "BATSMEN"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg",
+		"name": "Glenn Maxwell",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c176605/marcus-stoinis.jpg",
+		"name": "Marcus Stoinis",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152405/moises-henriques.jpg",
+		"name": "Moises Henriques",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c184115/marnus-labuschagne.jpg",
+		"name": "Marnus Labuschagne",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c147703/travis-head.jpg",
+		"name": "Travis Head",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155994/michael-neser.jpg",
+		"name": "Michael Neser",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155995/ashton-agar.jpg",
+		"name": "Ashton Agar",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c198706/cameron-green.jpg",
+		"name": "Cameron Green",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180315/daniel-sams.jpg",
+		"name": "Daniel Sams",
+		"type": "ALL ROUNDER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170667/alex-carey.jpg",
+		"name": "Alex Carey",
+		"type": "WICKET KEEPER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156205/matthew-wade.jpg",
+		"name": "Matthew Wade",
+		"type": "WICKET KEEPER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155979/tim-paine.jpg",
+		"name": "Tim Paine",
+		"type": "WICKET KEEPER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+		"name": "Pat Cummins",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170650/nathan-lyon.jpg",
+		"name": "Nathan Lyon",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg",
+		"name": "Mitchell Starc",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170654/adam-zampa.jpg",
+		"name": "Adam Zampa",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191413/sean-abbott.jpg",
+		"name": "Sean Abbott",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151583/josh-hazlewood.jpg",
+		"name": "Josh Hazlewood",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156051/andrew-tye.jpg",
+		"name": "Andrew Tye",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151576/james-pattinson.jpg",
+		"name": "James Pattinson",
+		"type": "BOWLER"
+	},
+	{
+		"country": "Australia",
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156052/mitchell-swepson.jpg",
+		"name": "Mitchell Swepson",
+		"type": "BOWLER"
+	}
+]
