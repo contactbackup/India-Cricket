@@ -1,6 +1,6 @@
 [{
 		"date": "Nov 17, 2:00 PM",
-		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-button-round-250.png",
+		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"fastTeam": "New Zealand",
 		"gameStatus": "Live",
 		"matchNo": "1st T20",
@@ -10,7 +10,7 @@
 	},
 	{
 		"date": "Nov 19, 2:00 PM",
-		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-button-round-250.png",
+		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"fastTeam": "New Zealand",
 		"gameStatus": "Live",
 		"matchNo": "2nd T20",
@@ -20,7 +20,7 @@
 	},
 	{
 		"date": "Nov 21, 2:00 PM",
-		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-button-round-250.png",
+		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"fastTeam": "New Zealand",
 		"gameStatus": "Live",
 		"matchNo": "3rd T20",
@@ -30,7 +30,7 @@
 	},
 	{
 		"date": "Nov 25, 04:30 AM",
-		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-button-round-250.png",
+		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"fastTeam": "New Zealand",
 		"gameStatus": "Live",
 		"matchNo": "1st Test",
@@ -40,7 +40,7 @@
 	},
 	{
 		"date": "Dec 03, 04:30 AM",
-		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-button-round-250.png",
+		"fastImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
 		"fastTeam": "New Zealand",
 		"gameStatus": "Live",
 		"matchNo": "2nd Test",
