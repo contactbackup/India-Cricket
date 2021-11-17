@@ -1,73 +1,85 @@
 [{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170731/martin-guptill.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170731/martin-guptill.jpg",
 		"name": "Martin Guptill",
-		"type": "BATSMEN"
+		"type": "Batsman",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153409/mark-chapman.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153409/mark-chapman.jpg",
 		"name": "Mark Chapman",
-		"type": "ALL ROUNDER"
+		"type": "Batting Allrounder",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154598/will-young.jpg",
-		"name": "Will Young",
-		"type": "ALL ROUNDER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170739/james-neesham.jpg",
+		"name": "James Neesham",
+		"type": "Batting Allrounder",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154932/todd-astle.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154492/rachin-ravindra.jpg",
+		"name": "Rachin Ravindra",
+		"type": "Batting Allrounder",
+		"country": "New Zealand"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154932/todd-astle.jpg",
 		"name": "Todd Astle",
-		"type": "ALL ROUNDER"
+		"type": "Bowling Allrounder",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c185494/daryl-mitchell.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c185494/daryl-mitchell.jpg",
 		"name": "Daryl Mitchell",
-		"type": "ALL ROUNDER"
+		"type": "Bowling Allrounder",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154585/finn-allen.jpg",
-		"name": "Finn Allen",
-		"type": "WICKET KEEPER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170741/mitchell-santner.jpg",
+		"name": "Mitchell Santner",
+		"type": "Bowling Allrounder",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "http://s3.amazonaws.com/batsman/D%20P%20Conway_f2058d3d-80f4-41ab-aa54-f06645a105ef.JPG",
-		"name": "Devon Conway (Keeper)",
-		"type": "WICKET KEEPER"
-	},
-	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154514/glenn-phillips.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154514/glenn-phillips.jpg",
 		"name": "Glenn Phillips",
-		"type": "WK-Batsman"
+		"type": "WK-Batsman",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170753/tim-southee.jpg",
-		"name": "Tim Southee (C)",
-		"type": "Bowler"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154935/tim-seifert.jpg",
+		"name": "Tim Seifert",
+		"type": "WK-Batsman",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170749/lockie-ferguson.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170747/trent-boult.jpg",
+		"name": "Trent Boult",
+		"type": "Bowler",
+		"country": "New Zealand"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170749/lockie-ferguson.jpg",
 		"name": "Lockie Ferguson",
-		"type": "Bowler"
+		"type": "Bowler",
+		"country": "New Zealand"
 	},
 	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154574/adam-milne.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170755/ish-sodhi.jpg",
+		"name": "Ish Sodhi",
+		"type": "Bowler",
+		"country": "New Zealand"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170753/tim-southee.jpg",
+		"name": "Tim Southee (Captain)",
+		"type": "Bowler",
+		"country": "New Zealand"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154574/adam-milne.jpg",
 		"name": "Adam Milne",
-		"type": "BOWLER"
-	},
-	{
-		"country": "New Zealand",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170755/ish-sodhi.jpg",
-		"name": "Matt Henry",
-		"type": "Bowler"
+		"type": "Bowler",
+		"country": "New Zealand"
 	}
 ]
