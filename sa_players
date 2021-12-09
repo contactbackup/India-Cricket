@@ -1,85 +1,127 @@
 [{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg",
-		"name": "Faf du Plessis",
-		"type": "BATSMEN"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157353/dean-elgar.jpg",
+		"name": "Dean Elgar (C)",
+		"type": "Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170687/david-miller.jpg",
-		"name": "David Miller",
-		"type": "BATSMEN"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157823/temba-bavuma.jpg",
+		"name": "Temba Bavuma",
+		"type": "Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170645/aiden-markram.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156934/sarel-erwee.jpg",
+		"name": "Sarel Erwee",
+		"type": "Batsman",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170645/aiden-markram.jpg",
 		"name": "Aiden Markram",
-		"type": "BATSMEN"
+		"type": "Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170691/rassie-van-der-dussen.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/keegan-petersen.jpg",
+		"name": "Keegan Petersen",
+		"type": "Batsman",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170691/rassie-van-der-dussen.jpg",
 		"name": "Rassie van der Dussen",
-		"type": "BATSMEN"
+		"type": "Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170693/jean-paul-duminy.jpg",
-		"name": "Jean-Paul Duminy",
-		"type": "ALL ROUNDER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/george-linde.jpg",
+		"name": "George Linde",
+		"type": "Batting Allrounder",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170694/andile-phehlukwayo.jpg",
-		"name": "Andile Phehlukwayo",
-		"type": "ALL ROUNDER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156946/wiaan-mulder.jpg",
+		"name": "Wiaan Mulder",
+		"type": "Bowling Allrounder",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170695/dwaine-pretorius.jpg",
-		"name": "Dwaine Pretorius",
-		"type": "ALL ROUNDER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/marco-jansen.jpg",
+		"name": "Marco Jansen",
+		"type": "Bowling Allrounder",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170696/chris-morris.jpg",
-		"name": "Chris Morris",
-		"type": "ALL ROUNDER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157817/prenelan-subrayen.jpg",
+		"name": "Prenelan Subrayen",
+		"type": "Bowling Allrounder",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170698/quinton-de-kock.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170698/quinton-de-kock.jpg",
 		"name": "Quinton de Kock",
-		"type": "WICKET KEEPER"
+		"type": "WK-Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170764/imran-tahir.jpg",
-		"name": "Imran Tahir",
-		"type": "BOWLER"
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/kyle-verreynne.jpg",
+		"name": "Kyle Verreynne",
+		"type": "WK-Batsman",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/ryan-rickelton.jpg",
+		"name": "Ryan Rickelton",
+		"type": "WK-Batsman",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170759/kagiso-rabada.jpg",
 		"name": "Kagiso Rabada",
-		"type": "BOWLER"
+		"type": "Bowler",
+		"country": "South Africa"
 	},
 	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170761/lungi-ngidi.jpg",
-		"name": "Lungi Ngidi",
-		"type": "BOWLER"
-	},
-	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170774/tabraiz-shamsi.jpg",
-		"name": "Tabraiz Shamsi",
-		"type": "BOWLER"
-	},
-	{
-		"country": "South Africa",
-		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157349/beuran-hendricks.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157349/beuran-hendricks.jpg",
 		"name": "Beuran Hendricks",
-		"type": "BOWLER"
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156935/keshav-maharaj.jpg",
+		"name": "Keshav Maharaj",
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170761/lungi-ngidi.jpg",
+		"name": "Lungi Ngidi",
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c168592/anrich-nortje.jpg",
+		"name": "Anrich Nortje",
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/glenton-stuurman.jpg",
+		"name": "Glenton Stuurman",
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sisanda-magala.jpg",
+		"name": "Sisanda Magala",
+		"type": "Bowler",
+		"country": "South Africa"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157826/duanne-olivier.jpg",
+		"name": "Duanne Olivier",
+		"type": "Bowler",
+		"country": "South Africa"
 	}
 ]
