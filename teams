@@ -6,6 +6,13 @@
 		"teamName": "India"
 	},
 	{
+		"caption": "Captain: Kieron Pollard",
+		"players": "Players: 15",
+		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/wi_players",
+		"teamImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"teamName": "West Indies"
+	},
+	{
 		"caption": "Captain: Karunaratne",
 		"players": "Players: 17",
 		"teamClick": "https://raw.githubusercontent.com/contactbackup/India-Cricket/main/sri_players",
