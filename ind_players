@@ -1,30 +1,30 @@
 [{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170661/virat-kohli.jpg",
-		"name": "Virat Kohli (C)",
-		"type": "Batsman",
-		"country": "Indian"
-	},
-	{
 		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170658/rohit-sharma.jpg",
-		"name": "Rohit Sharma",
+		"name": "Rohit Sharma (C)",
 		"type": "Batsman",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171091/mayank-agarwal.jpg",
-		"name": "Mayank Agarwal",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226277/ruturaj-gaikwad.jpg",
+		"name": "Ruturaj Gaikwad",
 		"type": "Batsman",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153263/cheteshwar-pujara.jpg",
-		"name": "Cheteshwar Pujara",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170660/shikhar-dhawan.jpg",
+		"name": "Shikhar Dhawan",
 		"type": "Batsman",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171082/ajinkya-rahane.jpg",
-		"name": "Ajinkya Rahane",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170661/virat-kohli.jpg",
+		"name": "Virat Kohli",
+		"type": "Batsman",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226226/suryakumar-yadav.jpg",
+		"name": "Suryakumar Yadav",
 		"type": "Batsman",
 		"country": "Indian"
 	},
@@ -35,14 +35,26 @@
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171080/hanuma-vihari.jpg",
-		"name": "Hanuma Vihari",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171091/mayank-agarwal.jpg",
+		"name": "Mayank Agarwal",
+		"type": "Batsman",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226335/deepak-hooda.jpg",
+		"name": "Deepak Hooda",
 		"type": "Batting Allrounder",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153372/ravichandran-ashwin.jpg",
-		"name": "Ravichandran Ashwin",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171035/washington-sundar.jpg",
+		"name": "Washington Sundar",
+		"type": "Batting Allrounder",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226465/shahrukh-khan.jpg",
+		"name": "Shahrukh Khan",
 		"type": "Bowling Allrounder",
 		"country": "Indian"
 	},
@@ -59,50 +71,56 @@
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171058/wriddhiman-saha.jpg",
-		"name": "Wriddhiman Saha",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226219/ishan-kishan.jpg",
+		"name": "Ishan Kishan",
 		"type": "WK-Batsman",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/jayant-yadav.jpg",
-		"name": "Jayant Yadav",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226392/deepak-chahar.jpg",
+		"name": "Deepak Chahar",
 		"type": "Bowler",
 		"country": "Indian"
 	},
 	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154520/ishant-sharma.jpg",
-		"name": "Ishant Sharma",
-		"type": "Bowler",
-		"country": "Indian"
-	},
-	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170684/mohammed-shami.jpg",
-		"name": "Mohammed Shami",
-		"type": "Bowler",
-		"country": "Indian"
-	},
-	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c153874/umesh-yadav.jpg",
-		"name": "Umesh Yadav",
-		"type": "Bowler",
-		"country": "Indian"
-	},
-	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170685/jasprit-bumrah.jpg",
-		"name": "Jasprit Bumrah",
-		"type": "Bowler",
-		"country": "Indian"
-	},
-	{
-		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c216092/shardul-thakur.jpg",
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226224/shardul-thakur.jpg",
 		"name": "Shardul Thakur",
+		"type": "Bowler",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170690/yuzvendra-chahal.jpg",
+		"name": "Yuzvendra Chahal",
+		"type": "Bowler",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170683/kuldeep-yadav.jpg",
+		"name": "Kuldeep Yadav",
+		"type": "Bowler",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226280/ravi-bishnoi.jpg",
+		"name": "Ravi Bishnoi",
 		"type": "Bowler",
 		"country": "Indian"
 	},
 	{
 		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171039/mohammed-siraj.jpg",
 		"name": "Mohammed Siraj",
+		"type": "Bowler",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c167341/prasidh-krishna.jpg",
+		"name": "Prasidh Krishna",
+		"type": "Bowler",
+		"country": "Indian"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226438/avesh-khan.jpg",
+		"name": "Avesh Khan",
 		"type": "Bowler",
 		"country": "Indian"
 	}
