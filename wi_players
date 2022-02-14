@@ -1,0 +1,91 @@
+[{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170790/darren-bravo.jpg",
+		"name": "Darren Bravo",
+		"type": "Batsman",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152745/shamarh-brooks.jpg",
+		"name": "Shamarh Brooks",
+		"type": "Batsman",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c181652/brandon-king.jpg",
+		"name": "Brandon King",
+		"type": "Batsman",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226283/kieron-pollard.jpg",
+		"name": "Kieron Pollard (C)",
+		"type": "Batting Allrounder",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170794/fabian-allen.jpg",
+		"name": "Fabian Allen",
+		"type": "Batting Allrounder",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152651/nkrumah-bonner.jpg",
+		"name": "Nkrumah Bonner",
+		"type": "Batting Allrounder",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170806/jason-holder.jpg",
+		"name": "Jason Holder",
+		"type": "Bowling Allrounder",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170814/shai-hope.jpg",
+		"name": "Shai Hope",
+		"type": "WK-Batsman",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170810/nicholas-pooran.jpg",
+		"name": "Nicholas Pooran",
+		"type": "WK-Batsman",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157223/akeal-hosein.jpg",
+		"name": "Akeal Hosein",
+		"type": "Bowler",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152877/alzarri-joseph.jpg",
+		"name": "Alzarri Joseph",
+		"type": "Bowler",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170820/kemar-roach.jpg",
+		"name": "Kemar Roach",
+		"type": "Bowler",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226370/romario-shepherd.jpg",
+		"name": "Romario Shepherd",
+		"type": "Bowler",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226368/odean-smith.jpg",
+		"name": "Odean Smith",
+		"type": "Bowler",
+		"country": "WI"
+	},
+	{
+		"image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c181653/hayden-walsh.jpg",
+		"name": "Hayden Walsh",
+		"type": "Bowler",
+		"country": "WI"
+	}
+]
